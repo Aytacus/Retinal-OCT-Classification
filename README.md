@@ -1,12 +1,6 @@
 # Retinal OCT Image Classification — CNV / DME / DRUSEN / NORMAL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-2.19.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-2.9.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-GPU%20T4-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Best%20Accuracy-89.76%25-2ecc71?style=for-the-badge"/>
-</p>
+
 
 ---
 
